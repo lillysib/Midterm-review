@@ -1,0 +1,53 @@
+main {
+	max-width: 600px;
+	margin: 0 auto;
+}
+p {
+	font-family: Georgia, serif;
+	font-size: 13px;
+}
+h1 {
+	font-family: Helvetica, sans-serif;
+}
+
+#content {
+	margin: 0 auto;
+	width: 900px;
+}
+
+#byline {
+	font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
+}
+
+#headline {
+	text-decoration: underline;
+	font-size: 20px;
+}
+
+#masthead {
+	font-size: 50px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	max-width: 800px;
+	min-height: 200px;
+	margin: 0 auto;
+
+}
+
+img {
+	width: 100%;
+}
+
+figcaption {
+	font-size: 13px;
+	color: darkgray;
+}
+
+blockquote {
+	font-size: 25px;
+	color: darkgray;
+}
